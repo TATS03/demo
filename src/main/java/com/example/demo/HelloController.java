@@ -16,4 +16,5 @@ public class HelloController {
     public void onClickButtonClick() {
         welcomeText.setText("Trust in Good");
     }
+
 }
